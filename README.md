@@ -447,4 +447,4 @@ _Whether it's failing at logging into accounts, resetting a password, or protect
 </p>
 <hr>
 
-<p align=right>DELETE **EVERYTHING!** IN AZURE TO SAVE CREDITS!<br>
+<p align=center>DELETE **EVERYTHING!** IN AZURE TO SAVE CREDITS!<br>
